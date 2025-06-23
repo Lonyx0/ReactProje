@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "thumb": "sabitdegisken.png",
+        "thumbFull": "sabitdegisken.png",
+        "tags": ["Web", "Coding"],
+        "title": "Sabit Değişkenler Web Sitesi",
+        "description": "Sabit Değişkenler, ajansı için yaptığım web sitesi. HTML, CSS ve JavaScript kullanılarak tasarlandı ve geliştirildi. Proje, responsive tasarım prensiplerine uygun olarak hazırlandı ve kullanıcı dostu bir arayüz sunuyor.",
+        "date": "2024-7-01"
+    },
+    {
+        "id": 2,
+        "thumb": "kursunkalem.png",
+        "thumbFull": "kursunkalem.png",
+        "tags": ["Web", "Coding"],
+        "title": "Kurşunkalem Reklam Ajansı için Web Sitesi",
+        "description": "Kurşunkalem Reklam Ajansı için hazırladığım web sitesi. HTML, CSS ve JavaScript kullanılarak geliştirildi. Proje, responsive tasarım prensiplerine uygun olarak hazırlandı ve kullanıcı dostu bir arayüz sunuyor.",
+        "date": "2025-4-20"
+    },
+    {
+        "id": 3,
+        "thumb": "thepoint.png",
+        "thumbFull": "thepoint.png",
+        "tags": ["Web", "Design", "Coding"],
+        "title": "The Point Production Web Sitesi",
+        "description": "The Point Production için hazırladığım web sitesi. HTML, CSS ve JavaScript kullanılarak geliştirildi. Proje, responsive tasarım prensiplerine uygun olarak hazırlandı ve kullanıcı dostu bir arayüz sunuyor.",
+        "date": "2024-8-12"
+
+
+    }
+]

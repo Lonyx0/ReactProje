@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "activeClass": "",
+        "icon": "1.png",
+        "title": "Web Geliştirme",
+        "text": "HTML, CSS, JavaScript, React, Bootstrap, Node.js gibi teknolojilerle modern ve mobil uyumlu web siteleri geliştiriyorum.",
+        "btnText": "Daha Fazla",
+        "delay": "100ms"
+    },
+    {
+        "id": 2,
+        "activeClass": "active",
+        "icon": "2.png",
+        "title": "Mobil Geliştirme",
+        "text": "Flutter ve React Native kullanarak hem iOS hem de Android platformları için yüksek performanslı mobil uygulamalar geliştiriyorum.",
+        "btnText": "Daha Fazla",
+        "delay": "200ms"
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "icon": "3.png",
+        "title": "Freelance Proje Geliştirme",
+        "text": "Küçük işletmeler ve bireysel girişimler için özel yazılım çözümleri geliştiriyorum",
+        "btnText": "Daha Fazla",
+        "delay": "400ms"
+    },
+    {
+        "id": 4,
+        "activeClass": "",
+        "icon": "4.png",
+        "title": "UI/UX Tasarım",
+        "text": "Kullanıcı deneyimini ön planda tutarak, estetik ve işlevsel arayüzler tasarlıyorum. Kullanıcı odaklı çözümler sunuyorum.",
+        "btnText": "Daha Fazla",
+        "delay": "600ms"
+    }
+]
